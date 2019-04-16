@@ -1,4 +1,5 @@
 # GetHttpHeaders
+第一次运行需要先安装环境：第一次启动需先安装环境.bat
 
 通过getId.py来过滤浏览器请求，可以通过getId.py自定义处理逻辑，修改后的脚本实时运行不用重启mitmproxy，浏览器事件流程：https://github.com/mitmproxy/mitmproxy/blob/master/examples/addons/events.py
 
